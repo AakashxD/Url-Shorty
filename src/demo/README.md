@@ -12,3 +12,4 @@ export async function POST() {
         response: true,
     });
 }
+-- cache in react
